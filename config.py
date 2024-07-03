@@ -62,7 +62,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 
 # Get your pyrogram v2 session from @StringFatherBot on Telegram
-STRING1 = getenv("STRING_SESSION", "BQE9W20AS-d0q6qQgFbSZonX4Wilr5jPE5eDAuxVK2du51sB7netCens3ejlwJHNbk_C25wUwmcLtmeNFlgpVUoVTozPFDaXvbg31AFs4QKOaVKa-aP57iHeCq_Wa3XeiJl2ovbWqr4l2p5RNXzvsE6JNa66YELU5_FH47fWiCxMvX8ayTLdX5TsCfqrXrgCbDmcEFnxUDFEej1iQIWHeYXdyzlhGIejGJvHfe9iGwQmfcIp2YtanHtCo7xzHpWsWT-ISVjur7thwmAcgcrZLI_xyIjJ6An33h43ru9srj3Ww5PsvKX0rLTzebbLJLWlrR9idQKllS8gf1ivwJ56tMngPTnTBgAAAAGbCUdtAA")
+STRING1 = getenv("STRING_SESSION", "")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
