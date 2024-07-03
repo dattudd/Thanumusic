@@ -32,7 +32,7 @@ def track_markup(_, videoid, user_id, channel, fplay):
         [
             InlineKeyboardButton(
                 text=f"★ 𝐈𝛕ᷟ‌𝚣⃪ꙴ ⋆‌⃝๛𝐂𝐡𝐢𝐧𝐧𝐚™๛٭》 ✘ ๏𝕡✨ ★",
-              url="https://t.me/BTSChinna_op",
+              url="https://t.me/DFSchinnaop",
             ),
         ],
     ]
@@ -93,7 +93,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         [
             InlineKeyboardButton(
                 text=f"★ 𝐈𝛕ᷟ‌𝚣⃪ꙴ ⋆‌⃝๛𝐂𝐡𝐢𝐧𝐧𝐚™๛٭》 ✘ ๏𝕡✨ ★",
-              url="https://t.me/BTSChinna_op",
+              url="https://t.me/DFSchinnaop",
             ),
         ],
     ]
