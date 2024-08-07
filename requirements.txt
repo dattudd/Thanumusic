@@ -10,6 +10,7 @@ heroku3
 motor
 pip==23.3.1
 pillow
+python-3.11.4
 psutil
 py-tgcalls==0.3.9
 pykeyboard
