@@ -1,6 +1,5 @@
 aiofiles
 aiohttp
-pip==23.3.1
 asyncio
 beautifulsoup4
 dnspython
@@ -9,6 +8,7 @@ gitpython
 hachoir
 heroku3
 motor
+pip==23.3.1
 pillow
 psutil
 py-tgcalls==0.3.9
@@ -21,6 +21,7 @@ speedtest-cli
 spotipy
 tgcrypto
 unidecode
+yaml
 yt-dlp
 youtube-search
 youtube-search-python
