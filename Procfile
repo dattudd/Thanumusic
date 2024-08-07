@@ -1,2 +1,2 @@
-web: <YOUR_APPLICATION_RUN_COMMAND>
+work: bash start
 gitrepository:https://github.com/dattudd/Thanumusic
