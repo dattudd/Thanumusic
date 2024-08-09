@@ -1,3 +1,3 @@
 web: yarn start:production
-gitrepository:https://github.com/dattudd/Thanumusic
+git clone:https://github.com/dattudd/Thanumusic
 
