@@ -29,4 +29,4 @@ EXPOSE 5000
 COPY entrypoint.sh /entrypoint.sh
 ENTRYPOINT ["/entrypoint.sh"]
 
-CMD ["/etc/distribution/config.yml"]
+CMD ["bash start"]
